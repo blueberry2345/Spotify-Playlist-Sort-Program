@@ -19,7 +19,7 @@ In order for you to find much of the information you need for this program to wo
 'client_ID' - This can be found in the 'Basic Information' part of your settings within your App.
 ![image](https://github.com/blueberry2345/Spotify-Playlist-Sort-Program/assets/102472091/c1a08c6d-ca36-41e3-b15a-97cebfa1ba5d)
 
-'client_secret' - can be found by pressing the link below the Client ID
+'client_secret' - can be found by pressing the link below the Client ID      
 ![image](https://github.com/blueberry2345/Spotify-Playlist-Sort-Program/assets/102472091/1927db79-f3c3-4cd4-9905-aa557cf7ff3d)
 
 
