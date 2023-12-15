@@ -3,7 +3,7 @@ import spotipy
 # input your details for these variables. Go to the 'README' for more information about this
 client_ID = ""
 client_secret = ""
-redirect_uri = ""
+redirect_uri = "http://localhost:8888/callback"
 scopes = ""
 playlist_id = ""
 user_id = ""
