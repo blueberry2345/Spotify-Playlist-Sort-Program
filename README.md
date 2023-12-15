@@ -17,10 +17,12 @@ This program uses Spotipy for a user's existing playlist to create a new playlis
 In order for you to find much of the information you need for this program to work, you will need to go to https://developer.spotify.com/ and create a new 'App'
 
 'client_ID' - This can be found in the 'Basic Information' part of your settings within your App.
-![image](https://github.com/blueberry2345/Spotify-Playlist-Sort-Program/assets/102472091/c1a08c6d-ca36-41e3-b15a-97cebfa1ba5d)
+![image](https://github.com/blueberry2345/Spotify-Playlist-Sort-Program/assets/102472091/f5b1321f-a00c-4082-91f0-72cfccc741fe)
+
 
 'client_secret' - can be found by pressing the link below the Client ID      
-![image](https://github.com/blueberry2345/Spotify-Playlist-Sort-Program/assets/102472091/1927db79-f3c3-4cd4-9905-aa557cf7ff3d)
+![image](https://github.com/blueberry2345/Spotify-Playlist-Sort-Program/assets/102472091/cb35d931-64c2-4bfb-b954-1f5a368dc6e8)
+
 
 
 'redirect_uri' (Changing this is optional) - 
