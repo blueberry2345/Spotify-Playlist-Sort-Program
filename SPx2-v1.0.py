@@ -1,6 +1,6 @@
 import spotipy
 
-# input your details for these variables. Go to the 'README.txt' for more information about this
+# input your details for these variables. Go to the 'README' for more information about this
 client_ID = ""
 client_secret = ""
 redirect_uri = ""
