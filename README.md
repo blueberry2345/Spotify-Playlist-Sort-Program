@@ -31,5 +31,9 @@ In order for you to find much of the information you need for this program to wo
 ![image](https://github.com/blueberry2345/Spotify-Playlist-Sort-Program-SPx2/assets/102472091/17df2f96-3cfb-48f9-8206-66a1a96f57c4)
 
 
-'playlist_link' - 
+'playlist_link' - A link to your playlist that you want sorted. To get this link, go to the three dots on your playlist and click 'Copy link to playlist' which can be found within 'Share'.         
+![image](https://github.com/blueberry2345/Spotify-Playlist-Sort-Program-SPx2/assets/102472091/df476054-a88d-4343-8ab3-0ba212f6262b)                  
+![image](https://github.com/blueberry2345/Spotify-Playlist-Sort-Program-SPx2/assets/102472091/838b6724-bd11-455e-84bd-4f9a0dbe54c0)
+
+
 'user_id' 
