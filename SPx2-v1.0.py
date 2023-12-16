@@ -4,7 +4,7 @@ import spotipy
 client_ID = ""
 client_secret = ""
 redirect_uri = "http://localhost:8888/callback"
-scopes = ""
+scopes = "playlist-modify-private playlist-read-private playlist-modify-public"
 playlist_id = ""
 user_id = ""
 
