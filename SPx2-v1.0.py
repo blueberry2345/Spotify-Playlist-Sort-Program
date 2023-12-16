@@ -7,8 +7,6 @@ redirect_uri = "http://localhost:8888/callback"
 scopes = "playlist-modify-private playlist-read-private playlist-modify-public"
 playlist_id = ""
 user_id = ""
-
-
 #creation of two lists. one for the track order of the current playlist and the other for the new playlist
 tracks = []
 sorted_tracks = []
