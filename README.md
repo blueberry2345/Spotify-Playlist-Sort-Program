@@ -27,8 +27,9 @@ In order for you to find much of the information you need for this program to wo
 
 
 
-'redirect_uri' (Changing this is optional) - This is where you are redirected after the authorisation. I have set it as 'http://localhost:8888/callback' but this can be changed if you have a preference. Make sure your 'redirect_uri' will be consistent with the value of 'Redirect URIs' on your Spotify Developer app.
+'redirect_uri' (Changing this is optional) - Where you are redirected after the authorisation. I have set it as 'http://localhost:8888/callback' but this can be changed if you have a preference. Make sure your 'redirect_uri' will be consistent with the value of 'Redirect URIs' on your Spotify Developer app.
 ![image](https://github.com/blueberry2345/Spotify-Playlist-Sort-Program-SPx2/assets/102472091/17df2f96-3cfb-48f9-8206-66a1a96f57c4)
 
 
-, 'scopes', 'playlist_id' and 'user_id' 
+'playlist_link' - 
+'user_id' 
